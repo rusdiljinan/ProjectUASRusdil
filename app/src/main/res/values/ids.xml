@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="movie_poster" type="id" />
+    <item name="movie_title" type="id" />
+    <item name="movie_overview" type="id" />
+    <item name="tv_overview" type="id" />
+    <item name="tv_poster" type="id" />
+    <item name="tv_title" type="id" />
+    <item name="menu_movie" type="id" />
+    <item name="menu_tv" type="id" />
+    <item name="menu_profile" type="id" />
+</resources>
